@@ -1,13 +1,8 @@
-<h1 align="center">
-Green Mongo
-</h1>
+# Green MongoDB
 
-<br />
-
-My Course of learning Basic MongoDB at MongoDB school.
-
-In this course I learned about MongoDB Atlas and MongoDB Queries and Data processing.
-Also I learned about aggrigations and indexing.
+Our Course of learning Basic ```MongoDB``` at ```MongoDB``` school. In this course we learned about ```MongoDB Atlas``` and
+```MongoDB``` Queries and Data processing.
+Also we learned about aggrigations and indexing in ```NoSQL`` databases.
 
 ## Chapters of the course
 
@@ -38,3 +33,5 @@ Also I learned about aggrigations and indexing.
 		</a>
 	</li>
 </ol>
+
+## Example

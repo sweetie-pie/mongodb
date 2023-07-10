@@ -1,5 +1,8 @@
 # MongoDB
 
+![](https://img.shields.io/badge/db-mongodb-green)
+![](https://img.shields.io/badge/lang-python-blue)
+
 Our Course of learning Basic ```MongoDB``` at ```MongoDB``` school. In this course we learned about ```MongoDB Atlas``` and
 ```MongoDB``` Queries and Data processing.
 Also we learned about aggrigations and indexing in ```NoSQL``` databases.
@@ -39,7 +42,7 @@ Also we learned about aggrigations and indexing in ```NoSQL``` databases.
 	</li>
 	<li>
 		<a href="./Chapter 6/README.md">
-			Installation
+			Example
 		</a>
 	</li>
 </ol>
